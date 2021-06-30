@@ -18,13 +18,13 @@
 - 📄 Know about my experiences [https://abre.ai/cvhenriquemorano](https://abre.ai/cvhenriquemorano)
 
 - ⚡ Fun fact **I'M BATMAN 🦇**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rique_morano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rique_morano" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/henrique-morano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="henrique-morano" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12011821/henrique-morano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12011821/henrique-morano" height="30" width="40" /></a>
-<a href="https://instagram.com/rique_morano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rique_morano" height="30" width="40" /></a>
+<a href="https://twitter.com/rique_morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="rique_morano" height="30" /></a>
+<a href="https://linkedin.com/in/henrique-morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="henrique-morano" height="30" /></a>
+<a href="https://stackoverflow.com/users/12011821/henrique-morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="12011821/henrique-morano" height="30" /></a>
+<a href="https://instagram.com/rique_morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="rique_morano" height="30" /></a>
+<a href="https://www.reddit.com/user/Rique_morano/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/reddit.png" alt="rique_morano" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
