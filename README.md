@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rique_morano" target="blank"><img src="https://img.shields.io/twitter/follow/rique_morano?logo=twitter&style=for-the-badge" alt="rique_morano" /></a> </p>
 
-- 🔭 I’m currently working on [Ramona](https://github.com/riquemorano/ChatBot)
+- 🔭 I’m currently working on [Dont Eat Me Snake Game](https://github.com/riquemorano/Dont-Eat-Me-Snake-Game)
 
-- 🌱 I’m currently learning **PHP, Ruby, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **C#, Dart, PL/SQL, PHP and Ruby.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/riquemorano](https://github.com/riquemorano)
+- 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **henrique.morano@rocketmail.com**
 
@@ -48,6 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riquemorano&show_icons=true&locale=en&theme=highcontrast" alt="riquemorano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riquemorano&theme=highcontrast" alt="riquemorano" /></p>
-<div>
-  <img src="https://github.com/RiqueMorano/RiqueMorano/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
- </div>
+
+<img src="https://github.com/RiqueMorano/RiqueMorano/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
