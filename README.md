@@ -41,6 +41,6 @@
         <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riquemorano&theme=alduin" #alt="riquemorano" /></a> </p> -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riquemorano&show_icons=true&locale=en&theme=highcontrast" alt="riquemorano" width="470" height="185"/>&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=riquemorano&theme=highcontrast" alt="riquemorano"width="470" height="185"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riquemorano&show_icons=true&locale=en&theme=highcontrast" alt="riquemorano" width="420" height="165"/>&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=riquemorano&theme=highcontrast" alt="riquemorano"width="420" height="165"/></p>
 
 <p align="center"> <img src="https://github.com/RiqueMorano/RiqueMorano/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
