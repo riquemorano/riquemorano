@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riquemorano&label=Profile%20views&color=0e75b6&style=flat" alt="riquemorano" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riquemorano&theme=alduin" alt="riquemorano" /></a> </p>
-
 - 🔭 I’m currently working on [Dont Eat Me Snake Game](https://github.com/riquemorano/Dont-Eat-Me-Snake-Game)
 
 - 🌱 I’m currently learning **C#, Dart, PL/SQL, PHP and Ruby.**
@@ -16,8 +14,8 @@
 - 📄 Know about my experiences [https://abre.ai/cvhenriquemorano](https://abre.ai/cvhenriquemorano)
 
 - ⚡ Fun fact **I'M BATMAN 🦇**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/rique_morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="rique_morano" height="30" /></a>
 <a href="https://linkedin.com/in/henrique-morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="henrique-morano" height="30" /></a>
 <a href="https://stackoverflow.com/users/12011821/henrique-morano" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="12011821/henrique-morano" height="30" /></a>
@@ -25,8 +23,9 @@
 <a href="https://www.reddit.com/user/Rique_morano/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/reddit.png" alt="rique_morano" height="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
@@ -41,8 +40,7 @@
         <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
         <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riquemorano&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="riquemorano" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riquemorano&theme=highcontrast" alt="riquemorano"/></p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riquemorano&theme=alduin" #alt="riquemorano" /></a> </p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riquemorano&show_icons=true&locale=en&theme=highcontrast" alt="riquemorano" width="470" height="185"/>&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=riquemorano&theme=highcontrast" alt="riquemorano"width="470" height="185"/></p>
 
 <p align="center"> <img src="https://github.com/RiqueMorano/RiqueMorano/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
