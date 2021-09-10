@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **henrique.morano@rocketmail.com**
 
-- 📄 Know about my experiences [https://abre.ai/cvhenriquemorano](https://abre.ai/cvhenriquemorano)
+- 📄 Know about my experiences [http://tiny.cc/curriculum-henriquemorano](http://tiny.cc/curriculum-henriquemorano)
 
 - ⚡ Fun fact **I'M BATMAN 🦇**
 <h3 align="center">Connect with me:</h3>
