@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dont Eat Me Snake Game](https://github.com/riquemorano/Dont-Eat-Me-Snake-Game)
 
-- 🌱 I’m currently learning **C#, Dart, PL/SQL, PHP and Ruby.**
+- 🌱 I’m currently learning **PHP and Ruby.**
 
 - 👨‍💻 All of my projects are available here.
 
