@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Morano</h1>
-<h3 align="center">Computer Science student at Nove de Julho University. I am interested in AI, Data Science, Machine Learning and Software Development. Brazilian</h3>
+<h3 align="center">Computer Science. I am interested in AI, Data Science, Machine Learning and Software Development. Brazilian</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riquemorano&label=Profile%20views&color=0e75b6&style=flat" alt="riquemorano" /> </p>
 
