@@ -3,15 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riquemorano&label=Profile%20views&color=0e75b6&style=flat" alt="riquemorano" /> </p>
 
-- 🔭 I’m currently working on [Dont Eat Me Snake Game](https://github.com/riquemorano/Dont-Eat-Me-Snake-Game)
-
-- 🌱 I’m currently learning **PHP and Ruby.**
+- 🌱 I’m currently learning **Javascript and Apache Groovy.**
 
 - 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **henrique.morano@rocketmail.com**
-
-- 📄 Know about my experiences [http://tiny.cc/curriculum-henriquemorano](http://tiny.cc/curriculum-henriquemorano)
 
 - ⚡ Fun fact **I'M BATMAN 🦇**
 <h3 align="center">Connect with me:</h3>
